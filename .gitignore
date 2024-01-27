@@ -1524,6 +1524,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .DS_Store
+./data/text/gutenberg_crawled/*
+/data/text/gutenberg_crawled/*
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
