@@ -1526,6 +1526,8 @@ FodyWeavers.xsd
 .DS_Store
 ./data/text/gutenberg_crawled/*
 /data/text/gutenberg_crawled/*
+/data/gutenberg_zip_files/*
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
